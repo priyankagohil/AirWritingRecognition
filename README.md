@@ -4,3 +4,5 @@ A machine learning application in python for recognitzing characters written in 
 
 Dataset : EMNIST letter dataset
 
+![Air Writing](Air writing.gif)
+

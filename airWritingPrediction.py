@@ -205,11 +205,6 @@ def main():
 
         key = cv2.waitKey(1)
 
-        # ready to draw
-        if key & 0xFF == ord('s'):
-            pressed = True
-            histogram = get_histogram(frame)
-
         # To start drawing
         if key & 0xFF == ord('d'):
             is_drawing = True
